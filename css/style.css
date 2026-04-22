@@ -1,0 +1,7 @@
+.gradient-background {
+background: linear-gradient(135deg, #06b6d4,#3b82f6);
+}
+
+.profile-img {
+    border-radius: 50%;
+}
